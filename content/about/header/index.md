@@ -1,7 +1,6 @@
 ---
-## Configure header of page
-text_align_right: false
-show_title_as_headline: false
+text_align_right: no
+show_title_as_headline: no
 headline: |
   Hi, my name is Jenny Bo. Nice to meet you.
 ---
